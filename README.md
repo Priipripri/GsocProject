@@ -23,3 +23,4 @@ A simple web-based typing speed test game that helps users practice and improve 
 - **CSS**: For styling the application.
 - **JavaScript**: For functionality and logic.
 
+<img width="1423" alt="Screenshot 2024-11-25 at 3 35 35 PM" src="https://github.com/user-attachments/assets/9966d8cb-4f4f-4b1b-b6a2-6f9045aff31b">
